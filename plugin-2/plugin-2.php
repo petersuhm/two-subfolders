@@ -1,5 +1,5 @@
 <?php
 
 /**
- * Plugin Name: Plugin One
+ * Plugin Name: Plugin Two
  */
